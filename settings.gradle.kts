@@ -1,0 +1,3 @@
+
+rootProject.name = "AddressBookwithDB2"
+
